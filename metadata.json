@@ -1,0 +1,5 @@
+{
+  "name": "المحاسب الذكي - Smart Accountant",
+  "description": "Extract structured data from scanned invoices using Gemini AI and export to Excel/Sheets.",
+  "requestFramePermissions": []
+}
